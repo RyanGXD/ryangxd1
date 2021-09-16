@@ -17,7 +17,7 @@ Uso: Responda a figurinha com *${prefix}toimg*\n
 
 *COMANDOS PARA USAR EM GRUPOS:*
 
-Comando : *${prefix}bemvindo [1/0]*
+Comando : *${prefix}welcome [1/0]*
 Desc: Ativa o mode de boas vinda para o grupo
 Uso: * ${prefix}bemvindo 1 ou 0* \n
 Comando : *${prefix}add*
@@ -44,15 +44,15 @@ Comando : *${prefix}leave*
 Desc: Use este comando para o bot sair do grupo
 Uso: Basta enviar o comando
 Nota: Só pode ser usado por administradores do grupo ou o dono no bot\n
-Comando : *${prefix}marcar*
+Comando : *${prefix}tagall*
 Desc: Marca todos os membros do grupo, inclusive administradores
 Uso: Basta enviar o comando
 Nota: Este comando só pode ser usado se você for administrador do grupo
-Comando : *${prefix}marcar2*
+Comando : *${prefix}tagall2*
 Desc: Marca todos os membros do grupo, inclusive administradores
 Uso: Basta enviar o comando
 Nota: Este comando só pode ser usado se você for administrador do grupo
-comando : *${prefix}marcar3*
+comando : *${prefix}tagall3*
 Desc: Marca todos os membros do grupo, inclusive administradores
 Uso: Basta enviar o comando
 Nota: Este comando só pode ser usado se você for administrador do grupo
