@@ -1,91 +1,73 @@
 const help = (prefix) => {
-	return `> *Sticker Commands* <
-command : *${prefix}sticker* or *${prefix}stiker*
-desc : convert image/gif/video to sticker
-usage : reply image/gif/video, or send image/gif/video with caption\n
-command : *${prefix}sticker nobg* or *${prefix}stiker nobg*
-desc : convert image to sticker while removing the background
-usage : reply image, or send image with caption\n
-command : *${prefix}toimg*
-desc : convert sticker to image
-usage : reply sticker\n
-command : *${prefix}tsticker* or *${prefix}tstiker*
-desc : convert text to sticker
-usage : *${prefix}tsticker text in here*\n
-> *Meme Commands* <
-command : *${prefix}meme*
-desc : random meme images [english]
-usage : just send the command\n
-> *Others Commands* <
-command : *${prefix}tp*
-desc : Text / Logo maker from textpro.me
-usage : *${prefix}tp [no] [text]*\nexample : *${prefix}tp 1 YourText*
-note : *${prefix}tp list* ( for show all theme )\n
-command : *${prefix}ep*
-desc : Text / Logo maker from ephoto360.com
-usage : *${prefix}ep [no] [text]*\nexample : *${prefix}ep 1 YourText*
-note : *${prefix}ep list* ( for show all theme )\n
-command : *${prefix}tahta*
-desc : Harta Tahta .....
-usage : *${prefix}tahta [text]*\nexample : *${prefix}tahta YourText*\n
-command : *${prefix}gtts*
-desc : convert text to speech/audio
-usage : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan*\n
-command : *${prefix}loli*
-desc : random loli images
-usage : just send the command\n
-command : *${prefix}nsfwloli*
-desc : random nsfw loli images
-usage : just send the command\n
-command : *${prefix}url2img*
-desc : take web screenshots
-usage : *${prefix}url2img [tipe] [url]*\n
-command : *${prefix}simi*
-desc : your message will be replied to by simi
-usage : *${prefix}simi yourmessage*\n
-command : *${prefix}ocr*
-desc : take the text in the picture
-usage : reply image, or send image with caption\n
-command : *${prefix}wait*
-desc : search anime with image [ What Anime Is This/That ]
-usage : reply image, or send image with caption\n
-command : *${prefix}setprefix*
-desc : replace prefix
-usage : *${prefix}setprefix [text|optional]*\nexample : *${prefix}setprefix ?*
-note : This command can only be used by the bot owner\n
-> *Group Comands* <
-command : *${prefix}add*
-desc : add member into group
-usage : *${prefix}add 62813xxxxx*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}kick*
-desc : kick members from group
-usage : *${prefix}kick @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}promote*
-desc : make the group member as group admin
-usage : *${prefix}promote @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}demote*
-desc : make the group admin as group member
-usage : *${prefix}demote @tagmember*\n
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}linkgroup*
-desc : take the group link
-usage : just send the command
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}leave*
-desc : Make bot leave the group
-usage : just send the command
-note : Can only be used by Group admins and Bot owner\n
-command : *${prefix}tagall*
-desc : tags all group members including admins too
-usage : just send the command
-note : This command can be used if you are a group admin\n
-command : *${prefix}simih*
-desc : activate simi mode in the group
-usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deactivate simi mode
-note : This command can be used if you are a group admin\n`
+	return `
+
+BOT PELO CANAL MS PLAY
+
+Canal MS PLAY: https://www.youtube.com/msplay
+Site oficial do bot do canal MS PLAY: http://whatsbot.epizy.com/
+	
+*COMANDOS PRA FIGURINHAS:*
+
+Comandos: *${prefix}sticker* ou *${prefix}stiker*
+Desc: converter imagem / gif / vídeo em figurinha
+Uso: Eniar ou responder imagem/gif/vídeo com legenda a *${prefix}sticker*\n
+Comando : *${prefix}toimg*
+Desc: Converte uma figurinha em imagem
+Uso: Responda a figurinha com *${prefix}toimg*\n
+
+*COMANDOS PARA USAR EM GRUPOS:*
+
+Comando : *${prefix}bemvindo [1/0]*
+Desc: Ativa o mode de boas vinda para o grupo
+Uso: * ${prefix}bemvindo 1 ou 0* \n
+Comando : *${prefix}add*
+Desc: Adciona membro ao grupo
+Uso: *${prefix} add 62813xxxxx* \n
+Observação: Só pode ser usado se o bot for administrador do grupo \n
+Comando : *${prefix}kick*
+Desc: Expulsa membro do grupo
+Uso: *${prefix} kick @[membro do grupo]* \n
+Observação: Só pode ser usado se o bot for administrador do grupo \n
+Comando : *${prefix}promote*
+Desc: Torna um membro administrador do grupo
+Observação: Só pode ser usado se o bot for administrador do grupo \n
+Uso: *${prefix}promote @[numero do membro]* \n
+Observação: Só pode ser usado se o bot for administrador do grupo \ n
+Comando : *${prefix}demote*
+Desc: Retirar cargo de administrador do grupo
+Uso: *${prefix}demote @[mumero do membro]* \n
+Observação: Só pode ser usado se o bot for administrador do grupo \n
+Comando : *${prefix}linkgroup*
+Desc: Retorna o link de convite do grupo
+Uso: Basta enviar o comando
+Comando : *${prefix}leave*
+Desc: Use este comando para o bot sair do grupo
+Uso: Basta enviar o comando
+Nota: Só pode ser usado por administradores do grupo ou o dono no bot\n
+Comando : *${prefix}marcar*
+Desc: Marca todos os membros do grupo, inclusive administradores
+Uso: Basta enviar o comando
+Nota: Este comando só pode ser usado se você for administrador do grupo
+Comando : *${prefix}marcar2*
+Desc: Marca todos os membros do grupo, inclusive administradores
+Uso: Basta enviar o comando
+Nota: Este comando só pode ser usado se você for administrador do grupo
+comando : *${prefix}marcar3*
+Desc: Marca todos os membros do grupo, inclusive administradores
+Uso: Basta enviar o comando
+Nota: Este comando só pode ser usado se você for administrador do grupo
+
+*PARA O DONO DO BOT:*
+
+Comando : *${prefix}bc*
+Desc: Transmissão
+Uso: *${prefix}bc [texto] * \nexemplo: *${prefix}bc sua mensagem*
+Nota: Este comando só pode ser usado pelo proprietário do bot \n
+Comando : *${prefix}setprefix*
+Desc: substituir prefixo
+Uso: *${prefix} setprefix [texto | opcional] * \ nexemplo: * $ {prefix}setprefix ?*
+Nota: Este comando só pode ser usado pelo proprietário do bot \n\n
+`
 }
 
 exports.help = help
