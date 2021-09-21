@@ -4,7 +4,7 @@ const help = (prefix) => {
 BOT PELO CANAL MS PLAY
 
 Canal MS PLAY: https://www.youtube.com/msplay
-Site oficial do bot do canal MS PLAY: http://whatsbot.epizy.com/
+Site oficial do bot do canal MS PLAY: http://whatsbot.xyz/
 	
 *COMANDOS PRA FIGURINHAS:*
 
