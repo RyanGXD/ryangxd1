@@ -116,11 +116,11 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: ' 1 Segundo!馃Ж ',
-				success: ' Pimba! 馃巸 ',
+				wait: ' Espere... ',
+				success: ' Pimba! ',
 				error: {
-					stick: ' ⚠️Tenta apenas responder a foto com o comando!⚠️ ',
-					Iv: ' 🤕Deu Algo errado!🤐 '
+					stick: ' Tente apenas responder a foto com o comando!⚠️ ',
+					Iv: 'Deu Algo errado. '
 				},
 				only: {
 					group: ' Só em grupo :/ ',
