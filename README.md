@@ -47,39 +47,39 @@ you've just cloned!!
 
 ## Features
 
-|  Criador de adesivos |  Recurso | PT/BR (RyanGXD)
- |  : -----------: |  : --------------------------------: |
- |  ✅ |  Enviar foto com legenda |
- |  ✅ |  Responder uma foto |
- |  ✅ |  Responder a um vídeo ou GIF |
- |  ✅ |  Enviar vídeo ou GIF com legenda |
- |  ✅ |  Responder a um adesivo (adesivo na imagem) |
+Criador de adesivos Recurso PT/BR (RyanGXD)
 
- |  Outro |  Recurso |
- |  : ------------: |  : ---------------------------------------------: |
- |  ✅ |  Obtenha um meme aleatório. |
- |  ✅ |  Texto de fala |
- |  ✅ |  Recurso de escrita |
- |  ✅ |  O que é esse anime |
- |  ✅ |  Url2Img (Web Screeenshot) |
- |  ✅ |  Simsimi |
+✅Enviar foto com legenda.
+✅Responder uma foto.
+✅Responder a um vídeo ou GIF.
+✅Enviar vídeo ou GIF com legenda.
+✅Responder a um adesivo (adesivo na imagem).
 
- |  Grupo |  Recurso |
- |  : -----------: |  : --------------------------------: |
- |  ✅ |  Membro Tagall / Mentionall |
- |  ✅ |  Tagall2 / membro Mentionall |
- |  ✅ |  Tagall3 / membro Mentionall |
- |  ✅ |  Kick Member Group |
- |  ✅ |  Adicionar grupo de membros |
- |  ✅ |  Obter Grupo de Administradores de Lista |
- |  ✅ |  Obter link de convite de grupo |
- |  ✅ |  Bot sai do grupo |
+Outro/Recursos
 
- |  Owner Bot |  Recurso |
- |  : -----------: |  : --------------------------------: |
- |  ✅ |  Definir prefixo |
- |  ✅ |  Broadcast |
- |  ✅ |  Limpar todos os bate-papos |
+✅Obtenha um meme aleatório.
+✅Texto de fala.
+✅Recurso de escrita.
+✅O que é esse anime.
+✅Url2Img (Web Screeenshot).
+✅Simsimi.
+
+Grupo/Recursos
+
+✅Tagall (Menciona Membros).
+✅Tagall2 (Menciona Membros).
+✅Tagall3 (Menciona Membros).
+✅Kick Member Group.
+✅Adicionar grupo de membros.
+✅Obter Grupo de Administradores de Lista.
+✅Obter link de convite de grupo.
+✅Bot sai do grupo.
+
+⚠️Host do Bot⚠️
+
+✅Definir prefixo.
+✅Transmissão.
+✅Limpar todos os bate-papos.
 
 ## Special Thanks to
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
