@@ -7,27 +7,27 @@
 <p align="center">
 <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
 
-## Clone this project
+## Clone este projeto
 
 ```bash
 > git clone https://github.com/RyanGXD/ryangxd1.git
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Instale as dependências:
+Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
+você acabou de clonar!
 
 ```bash
 > cd ryangxd1
 > bash install.sh
 ```
 
-### Usage
+### Usar
 ```bash
 > npm start
 ```
 
-### Settings
+### Configurações
 ```json
 {
 	"prefix": "/",
@@ -35,10 +35,14 @@ you've just cloned!!
 	"apiKey": "Your ApiKey here"
 }
 ```
+## Editado
+Oii, Sou eu a pessoa que editou este bot. 
+Qualquer dúvida só entrar em contato!
+YouTube: https://youtube.com/channel/UCC2G7Z43fzKjhWnyXeke7CA
 
-## Features
+## Recursos
 
-Criador de adesivos Recurso PT/BR (RyanGXD)
+Criador de Figurinhas PT/BR
 
 ✅Enviar foto com legenda. \
 ✅Responder uma foto. \
@@ -77,8 +81,3 @@ Grupo/Recursos
 ### Donate
 * <a href="https://saweria.co/donate/mhankbarbar"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 * <a href="https://paypal.me/mhankbarbar"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-	
-## Edited
-Oie, é eu peguei esse bot incrível e dei uma editada.
-Todos os Créditos ao Criador que o crédito está lá em cima!
-Qualquer problema é só entrar em contato.
