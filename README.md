@@ -40,7 +40,7 @@ you've just cloned!!
 
 Criador de adesivos Recurso PT/BR (RyanGXD)
 
-✅Enviar foto com legenda.
+✅Enviar foto com legenda. \
 ✅Responder uma foto.
 ✅Responder a um vídeo ou GIF.
 ✅Enviar vídeo ou GIF com legenda.
@@ -53,7 +53,6 @@ Outro/Recursos
 ✅Recurso de escrita.
 ✅O que é esse anime.
 ✅Url2Img (Web Screeenshot).
-✅Simsimi.
 
 Grupo/Recursos
 
