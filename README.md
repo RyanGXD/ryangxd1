@@ -7,9 +7,11 @@
 <p align="center">
 <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
 
-## Clone este projeto
+## Clone este projeto (Termux)
 
 ```bash
+> pkg update && pkg upgrade
+> pkg i git
 > git clone https://github.com/RyanGXD/ryangxd1.git
 ```
 
