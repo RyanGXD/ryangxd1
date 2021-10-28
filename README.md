@@ -30,7 +30,7 @@ você acabou de clonar!
 ### Configurações
 ```json
 {
-	"prefix": "/",
+	"prefix": ".",
 	"ownerNumber": "55149xxxxx",
 	"apiKey": "Your ApiKey here"
 }
